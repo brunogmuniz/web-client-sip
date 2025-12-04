@@ -6,7 +6,10 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "start root": "ng serve modulo-root --port 4201",
+    "start admin": "ng serve modulo-admin --port 4202",
+    "start dept": "ng serve modulo-dept-ensino --port 4203"
   },
   "private": true,
   "dependencies": {
@@ -18,11 +21,16 @@
     "@angular/platform-browser": "^15.2.0",
     "@angular/platform-browser-dynamic": "^15.2.0",
     "@angular/router": "^15.2.0",
+    "bootstrap": "^5.3.8",
+    "install": "^0.13.0",
+    "npm": "^11.6.4",
     "rxjs": "~7.8.0",
+    "sweetalert2": "^11.26.3",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "^15.2.11",
     "@angular/cli": "~15.2.11",
     "@angular/compiler-cli": "^15.2.0",
     "@types/jasmine": "~4.3.0",

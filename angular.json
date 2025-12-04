@@ -65,7 +65,11 @@
             ],
             "styles": [
               "src/app/modulo-root/styles.scss",
-              "src/assets/css/demo-12/style.bundle.min.css"
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "src/assets/css/demo-12/wizard-2.min.css",
+              "src/assets/icons/line-awesome/css/line-awesome.css"
             ],
             "scripts": [
               "src/assets/js/jquery-1.12.4.min.js",
@@ -146,7 +150,11 @@
             ],
             "styles": [
               "src/modulo-root/styles.scss",
-              "src/assets/css/demo-12/style.bundle.min.css"
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "src/assets/css/demo-12/wizard-2.min.css",
+              "src/assets/icons/line-awesome/css/line-awesome.css"
             ],
             "scripts": [
               "src/app/assets/js/jquery-1.12.4.min.js",
@@ -278,7 +286,8 @@
               "src/app/modulo-dept-ensino/styles.scss",
               "src/assets/css/demo-12/style.bundle.min.css",
               "src/assets/css/demo-12/wizard-2.min.css",
-              "src/assets/icons/line-awesome/css/line-awesome.css"
+              "src/assets/icons/line-awesome/css/line-awesome.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
               "src/assets/js/jquery-1.12.4.min.js",
@@ -329,7 +338,11 @@
             ],
             "styles": [
               "src/app/modulo-admin/styles.scss",
-              "src/assets/css/demo-12/style.bundle.min.css"
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "src/assets/css/demo-12/wizard-2.min.css",
+              "src/assets/icons/line-awesome/css/line-awesome.css"
             ],
             "scripts": [
               "src/assets/js/jquery-1.12.4.min.js",
@@ -410,7 +423,11 @@
             ],
             "styles": [
               "src/app/modulo-admin/styles.scss",
-              "src/assets/css/demo-12/style.bundle.min.css"
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/demo-12/style.bundle.min.css",
+              "src/assets/css/demo-12/wizard-2.min.css",
+              "src/assets/icons/line-awesome/css/line-awesome.css"
             ],
             "scripts": [
               "src/assets/js/jquery-1.12.4.min.js",
